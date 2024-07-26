@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dapper Genric Helper.props" />
+</Project>
